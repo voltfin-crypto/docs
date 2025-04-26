@@ -22,7 +22,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Enter App",
     "url": "https://app.voltfincrypto.com"
   },
   "tabs": [
@@ -32,7 +32,7 @@
     },
     {
       "name": "API Reference",
-      "url": "api-reference"
+      "url": "essentials"
     }
   ],
   "navigation": [
