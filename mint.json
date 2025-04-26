@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Contact us",
       "url": "mailto:info@voltfincrypto.com"
     }
   ],
@@ -27,17 +27,17 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Welcome",
       "url": "api-reference"
     },
     {
-      "name": "Data Documentation",
+      "name": "API Reference",
       "url": "api-reference"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Welcome",
       "pages": [
         "introduction",
         "quickstart"
